@@ -1,3 +1,3 @@
 # DataScience
 
-Este es un repositorio con prácticas y resúmenes sobre la Ciencia de datos.
+Este es un repositorio con prácticas y proyectos sobre analítica y ciencia de datos.
